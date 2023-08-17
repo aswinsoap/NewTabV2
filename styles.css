@@ -44,7 +44,8 @@ a {
   color: #acacac;
   display: block;
   margin: .5em 0em;
-  font-weight:500;
+  font-weight: 500;
+  transition: color 0.3s; /* Add this line for a smooth color transition */
 }
 a:hover {
   color: #712f97;
